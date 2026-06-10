@@ -1,0 +1,36 @@
+Site ID,Site Name,Site Name CN,Latitude,Longitude,Coordinate Precision,Elevation m,Eco Zone,Eco Zone CN,Subregion,Subregion CN,Country,Site Type,Site Type CN,Period,Dating Basis,Has Botanical Data,Millet,Wheat,Barley,Sheep-Goat,Cattle,Horse,Key Reference,Notes
+ZH01,Begash,贝加什,45.09,79.16,Approximate,950,Foothill-steppe,山麓草原,Zhetysu,七河,KZ,Settlement+Burial,居址+墓葬,EBA-LBA,C14,Yes,Yes,Yes,No,Yes,Yes,Yes,Frachetti & Mar'yashev 2007; Frachetti et al. 2010,Koksu河谷避风台地的冬—春营地；黍与小麦直接测年至公元前三千纪末（仪式语境）
+ZH02,Dali,达利,45.12,79.59,Approximate,1550,Mid-mountain,中山带,Zhetysu,七河,KZ,Settlement+Burial,居址+墓葬,EBA-LBA,C14,Yes,Yes,n.d.,n.d.,Yes,Yes,Yes,Frachetti et al. (DSHN项目); Hermes et al. 2019,准噶尔阿拉套中山台地长期反复占用居址；同位素显示家畜食用黍
+ZH03,Tasbas,塔斯巴斯,45.03,79.78,Approximate,1490,Mid-mountain,中山带,Zhetysu,七河,KZ,Settlement+Burial,居址+墓葬,MBA-LBA,C14,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Doumani et al. 2015; Spengler et al. 2014,Bayan-Zhurek高地；黍、小麦、大麦、豌豆共出；火葬墓仪式语境含谷物
+ZH04,Talapty,塔拉普特,44.90,79.00,Valley,1200,Foothill-steppe,山麓草原,Zhetysu,七河,KZ,Settlement+Burial,居址+墓葬,MBA-LBA,Typology,No,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,Mar'yashev & Goryachev 2002,Koksu河谷安德罗诺沃晚段居址与墓地
+ZH05,Mukri,穆克里,44.92,79.15,Valley,1100,Foothill-steppe,山麓草原,Zhetysu,七河,KZ,Settlement,居址,LBA,Typology,No,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,Марьяшев и др. 报告,Koksu河谷晚青铜居址
+ZH06,Eshkiolmes,叶什基奥尔梅斯,45.42,78.65,Approximate,850,Foothill-steppe,山麓草原,Zhetysu,七河,KZ,Rock art,岩画,MBA-LBA,Style,No,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,Марьяшев & Горячев 2002,卡拉塔尔河谷岩画山地；青铜图层丰富（车辆、牛、仪式场景）
+ZH07,Bayan-Zhurek petroglyphs,巴彦茹列克岩画,45.20,79.20,Approximate,1800,Mid-mountain,中山带,Zhetysu,七河,KZ,Rock art,岩画,MBA-LBA,Style,No,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,Марьяшев & Горячев 2002,高位草场岩画群；与Tasbas居址同一高地系统
+ZH08,Turgen-2,图尔根II,43.10,77.75,Approximate,2300,Alpine-meadow,高山草甸,Zhetysu,七河,KZ,Settlement+Burial,居址+墓葬,MBA-LBA,C14,No,n.d.,n.d.,n.d.,Yes,Yes,n.d.,Горячев 2020,伊犁阿拉套Turgen峡谷上游高位居址群；季节性使用证据
+ZH09,Kyzylbulak IV,克孜勒布拉克IV,43.12,77.80,Approximate,1800,Mid-mountain,中山带,Zhetysu,七河,KZ,Settlement+Burial,居址+墓葬,MBA-LBA,C14,No,n.d.,n.d.,n.d.,Yes,Yes,n.d.,Горячев 2004; 2020,Turgen峡谷中段居址—墓地复合体
+ZH10,Asy-Saga,阿西—萨加,43.07,77.95,Approximate,2550,Alpine-meadow,高山草甸,Zhetysu,七河,KZ,Settlement+Burial,居址+墓葬,MBA-LBA,Typology,No,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,Горячев 2004,Asy高原夏牧场地带居址与墓地；季节性占用
+ZH11,Asy plateau petroglyphs,阿西高原岩画,43.06,78.00,Approximate,2600,Alpine-meadow,高山草甸,Zhetysu,七河,KZ,Rock art,岩画,MBA-LBA,Style,No,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,Горячев 2004,高原夏牧场通道岩画点
+ZH12,Butakty-1,布塔克特I,43.20,77.05,Approximate,1100,Foothill-steppe,山麓草原,Zhetysu,七河,KZ,Settlement,居址,LBA,C14,No,n.d.,n.d.,n.d.,Yes,Yes,Yes,Горячев 报告,阿拉木图近郊山前居址
+ZH13,Tuzusai (Talgar),图祖赛（塔尔加尔）,43.27,77.18,Approximate,1000,Valley-oasis,河谷绿洲,Zhetysu,七河,KZ,Settlement,居址,LBA-EIA,C14,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Chang 2018,塔尔加尔冲积扇农牧聚落；晚青铜—早铁过渡的灌溉农业证据
+ZH14,Tamgaly,塔姆加雷,43.844,75.526,Exact,980,Foothill-steppe,山麓草原,Zhetysu,七河,KZ,Rock art,岩画,MBA-LBA,Style,No,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,Rogozhinskiy 2011,楚—伊犁山地仪式景观（世界遗产）；"太阳头"人像等青铜母题；伴出同期墓地
+ZH15,Akkaynar,阿克凯纳尔,43.85,75.45,Approximate,950,Foothill-steppe,山麓草原,Zhetysu,七河,KZ,Rock art,岩画,MBA-LBA,Style,No,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,Rogozhinskiy 2011,Tamgaly邻近岩画群；同一仪式景观系统
+ZH16,Kulzhabasy,库尔扎巴斯,43.85,74.40,Approximate,800,Foothill-steppe,山麓草原,Zhetysu,七河,KZ,Rock art,岩画,MBA-LBA,Style,No,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,Марьяшев & Горячев 2002,楚—伊犁山脉西段大型岩画群；沿走廊分布
+ZH17,Oy-Dzhailau,奥伊贾伊劳,44.20,75.30,Valley,1100,Foothill-steppe,山麓草原,Zhetysu,七河,KZ,Rock art,岩画,MBA-LBA,Style,No,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,Казах斯坦岩画综述,楚—伊犁山地岩画与遗址复合区
+IT01,Aigyrzhal-2,艾格尔扎尔-2,41.43,75.95,Exact,2050,Mid-mountain,中山带,Inner Tian Shan,内天山,KG,Settlement+Burial,居址+墓葬,MBA,C14,Yes,Yes,n.d.,Yes,Yes,Yes,Yes,Motuzaite Matuzeviciute et al. 2017,纳伦河谷阶地；中石器至青铜多期堆积；农牧结合证据
+IT02,Chap I,查普I,42.181,75.851,Exact,2000,Mid-mountain,中山带,Inner Tian Shan,内天山,KG,Settlement,居址,LBA,C14,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Motuzaite Matuzeviciute et al. 2020,科奇科尔盆地边缘高海拔农庄（1065–825 cal BC）；大量炭化谷物与加工工具；施肥迹象
+IT03,Chap II,查普II,42.181,75.851,Exact,2000,Mid-mountain,中山带,Inner Tian Shan,内天山,KG,Settlement,居址,EBA-MBA,C14,Yes,Yes,Yes,Yes,n.d.,n.d.,n.d.,Motuzaite Matuzeviciute et al. (Chap II 系列),同地点更早堆积；高海拔早期作物利用证据
+IT04,Uch-Kurbu,乌奇库尔布,42.34,78.00,Valley,1750,Mid-mountain,中山带,Inner Tian Shan,内天山,KG,Settlement,居址,LBA,C14,Yes,Yes,n.d.,n.d.,Yes,Yes,n.d.,Motuzaite Matuzeviciute & Tabaldiev 系列,伊塞克湖南岸山麓居址；黍作证据
+IT05,Kaynar,凯纳尔,41.70,76.20,Valley,2200,Mid-mountain,中山带,Inner Tian Shan,内天山,KG,Burial,墓葬,LBA,Typology,No,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,Tabaldiev 2011,纳伦地区石围墓群
+IT06,Juuku valley,珠库河谷,42.20,77.90,Approximate,2300,Alpine-meadow,高山草甸,Inner Tian Shan,内天山,KG,Rock art,岩画,MBA-LBA,Style,No,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,Tabaldiev 2011,伊塞克湖南岸通往内天山山口的峡谷岩画
+IT07,Saimaluu-Tash,赛马鲁塔什,41.17,73.99,Approximate,3100,Alpine-meadow,高山草甸,Inner Tian Shan,内天山,KG,Rock art,岩画,MBA-LBA,Style,No,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,Помаскина 1976,费尔干纳山脊高山岩画圣地（万幅级）；每年仅6–8月可达；犁耕、车辆等青铜母题
+IT08,Chiim-Tash,奇姆塔什,41.30,74.20,Valley,3000,Alpine-meadow,高山草甸,Inner Tian Shan,内天山,KG,Rock art,岩画,MBA-LBA,Style,No,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,吉尔吉斯岩画综述,高山草甸季节性通道岩画点
+IT09,Cholpon-Ata,乔尔蓬阿塔,42.65,77.08,Exact,1620,Foothill-steppe,山麓草原,Inner Tian Shan,内天山,KG,Rock art,岩画,MBA-LBA,Style,No,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,Tabaldiev 2011,伊塞克湖北岸冰碛石岩画场；含青铜图层
+IT10,Ornok,奥尔诺克,42.64,76.95,Valley,1650,Foothill-steppe,山麓草原,Inner Tian Shan,内天山,KG,Rock art,岩画,MBA-LBA,Style,No,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,Tabaldiev 2011,伊塞克湖北岸岩画群
+IT11,Tash-Tube II,塔什秋别II,41.80,73.00,Valley,900,Valley-oasis,河谷绿洲,Inner Tian Shan,内天山,KG,Burial,墓葬,MBA,Typology,No,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,Кузьмина 1966; Кожемяко 报告,凯特缅秋别盆地安德罗诺沃墓地（吉境内典型地点；今没于托克托古尔水库）
+IT12,Alexandrovskoe,亚历山德罗夫斯科耶,42.85,74.40,Valley,750,Valley-oasis,河谷绿洲,Inner Tian Shan,内天山,KG,Settlement,居址,LBA,Typology,No,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,Кузьмина 1966,楚河谷地安德罗诺沃居址
+IT13,Kainda,凯因达,42.83,73.68,Valley,800,Valley-oasis,河谷绿洲,Inner Tian Shan,内天山,KG,Settlement,居址,LBA,Typology,No,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,Кузьмина 1966,楚河谷地安德罗诺沃居址
+IT14,Arpa valley cemeteries,阿尔帕谷地墓群,40.90,74.90,Valley,2900,Alpine-meadow,高山草甸,Inner Tian Shan,内天山,KG,Burial,墓葬,LBA,Typology,No,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,Tabaldiev 2011,高山谷地墓葬群；夏牧场地带的纪念性遗存
+IT15,Naryn valley petroglyphs,纳伦河谷岩画,41.50,75.60,Valley,2100,Mid-mountain,中山带,Inner Tian Shan,内天山,KG,Rock art,岩画,MBA-LBA,Style,No,n.d.,n.d.,n.d.,n.d.,n.d.,n.d.,Tabaldiev 2011,纳伦河谷沿线岩画点
+BT01,Adunqiaolu,阿敦乔鲁,44.85,80.45,Approximate,2500,Alpine-meadow,高山草甸,Bortala,博尔塔拉,CN,Settlement+Burial,居址+墓葬,MBA,C14,Yes,n.d.,Yes,Yes,Yes,Yes,n.d.,丛德新等 2013（《考古》2013年第7期）,博尔塔拉河上游高位盆地大型石构居址与墓地（约前19—前17世纪）；控制阿拉套山口
+BT02,Husta,呼斯塔,44.97,80.70,Approximate,1800,Mid-mountain,中山带,Bortala,博尔塔拉,CN,Settlement+Burial,居址+墓葬,MBA-LBA,C14,No,n.d.,n.d.,n.d.,Yes,Yes,Yes,中国社科院考古所新疆队简报,博尔塔拉河谷大型中心聚落；出土马骨等
+XJ01,Jirentaigoukou,吉仁台沟口,43.80,82.55,Approximate,1400,Foothill-steppe,山麓草原,Ili (Xinjiang),伊犁,CN,Settlement+Burial,居址+墓葬,MBA-LBA,C14,Yes,Yes,No,Yes,Yes,Yes,Yes,新疆文物考古研究所简报（《文物》2018—2020）,伊犁河谷尼勒克县大型聚落；黍、大麦与冶铸证据；世界最早用煤记录（约3600 BP）；跨天山对比节点
